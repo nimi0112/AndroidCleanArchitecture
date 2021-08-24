@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/sampleFrag">
+
+    <fragment
+        android:id="@+id/sampleFrag"
+        android:name="com.example.plumercv.presentation.main.fragment.RepoFragment"
+        android:label="repo fragment"
+        tools:layout="@layout/layout_fragment_new" />
+
+</navigation>
