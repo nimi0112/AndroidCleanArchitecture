@@ -31,3 +31,7 @@ Contains Test cases for the View Model
 ## RepoListUseCasesUnitTest
 
 Contains Test cases for the UseCases
+
+# App Preview
+
+![](app_preview.gif)
