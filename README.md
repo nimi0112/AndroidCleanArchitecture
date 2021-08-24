@@ -34,5 +34,4 @@ Contains Test cases for the UseCases
 
 # App Preview
 
-<img src="app_preview.gif" width="250" height="400"/>
-![](app_preview.gif )
+<img src="app_preview.gif" width="300" height="550"/>
